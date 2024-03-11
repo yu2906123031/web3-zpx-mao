@@ -1,0 +1,32 @@
+{
+  "name": "web3-zpx-mao",
+  "version": "0.1.0",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "ultra-button": "^1.0.2",
+    "vue": "^3.2.13"
+  },
+"repository": {
+  "type": "git",
+    "url": "git+https://github.com/yu2906123031/web3-zpx-mao.git"
+},
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ],
+  "description": "### 欢迎点亮STAR⭐",
+  "main": "babel.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
